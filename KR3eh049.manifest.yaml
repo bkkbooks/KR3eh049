@@ -1,0 +1,212 @@
+canonical_identifier: bkk:krp/KR3eh049/v1
+canonical_location: https://kanripo.org/bkk/KR3eh049/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 治瘧機要
+  identifiers:
+    krp: KR3eh049
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh049.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh049_000.yaml, hash: 'sha256:07aa987c3a51f1668cbd485db03303d089eaa3ada67a501ea9dd81a5bb08e840'}
+  - {seq: 1, filename: KR3eh049_001.yaml, hash: 'sha256:64a764c22a85bc8316daa0234cf30d0cd7247e3ba7f1b726a1342a96548e7f77'}
+  - {seq: 2, filename: KR3eh049_002.yaml, hash: 'sha256:43682f0f159257bb7f3d36914ccb6e834c9a1f0f792ead96df71fbd34854f1c8'}
+  - {seq: 3, filename: KR3eh049_003.yaml, hash: 'sha256:133e2f9bb40c52e1cbe2a80cb5a39a42e46273479b7a149bddd74e6b1056f562'}
+  - {seq: 4, filename: KR3eh049_004.yaml, hash: 'sha256:1a5cebf763e45727accc07c495d81bd3fce6cef55f2a9848c61be515f0d50585'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh049_000.markers.yaml, hash: 'sha256:241454245d09608631c01019b81e83fbc903bd9ed432f42fc7b66dface2c7651'}
+  - {seq: 1, role: markers, filename: assets/KR3eh049_001.markers.yaml, hash: 'sha256:2f6ee1fd10add34f8dda1f2825ed500fd414463117a712c64e3a4e7db1e71e67'}
+  - {seq: 2, role: markers, filename: assets/KR3eh049_002.markers.yaml, hash: 'sha256:d8d0c12d21e59310ad81cf879772b7474dc6696beb2d136d554fb9e3e5934075'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh049_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 667
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh049_jc_000-d3.h1s1
+    span:
+    - front
+    - 667
+    - 1321
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh049_jc_000-d4.h1s1
+    span:
+    - front
+    - 1321
+    - 1892
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh049_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3121
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh049_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 1271
+  label: 論治瘧先明榮衛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh049_jc_001-d5d3
+    span:
+    - body
+    - 1271
+    - 1945
+  label: 論瘧舍關榮
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh049_jc_001-d5d4
+    span:
+    - body
+    - 1945
+    - 2591
+  label: 論瘧發關衛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh049_jc_001-d5d5
+    span:
+    - body
+    - 2591
+    - 3121
+  label: 論瘧脈自弦
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh049_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5222
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eh049_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 3199
+  label: 論暑濕瘧
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh049_jc_002-d6d3
+    span:
+    - body
+    - 3199
+    - 3715
+  label: 論溫熱瘧
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh049_jc_002-d6d4
+    span:
+    - body
+    - 3715
+    - 4190
+  label: 論外感轉瘧
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh049_jc_002-d6d5
+    span:
+    - body
+    - 4190
+    - 4838
+  label: 論瘧痢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh049_jc_002-d6d6
+    span:
+    - body
+    - 4838
+    - 5222
+  label: 論瘧臌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh049_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 645
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh049_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 645
+  label: 列方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eh049_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 375
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eh049_jc_004-d8d2
+    span:
+    - body
+    - 2
+    - 375
+  label: 備選方
+  type: section
+  level: 2
+hash: sha256:963b7ea9d6877d8fd2834b14f4d29d637e3a316c9d2f255693bb62e400e05f82
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
