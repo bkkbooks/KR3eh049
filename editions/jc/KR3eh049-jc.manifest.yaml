@@ -16,13 +16,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eh049_000-jc.yaml, hash: 'sha256:970d18a09c6766afcc87b0899ab3c9e2e3312ff895bbff3c66f13b964bd6503f'}
+  - {seq: 0, filename: KR3eh049_000-jc.yaml, hash: 'sha256:4a36f81d024b83eb4063911e438606139f92b4187ef568ea7373ae9c11e4cacb'}
   - {seq: 1, filename: KR3eh049_001-jc.yaml, hash: 'sha256:8b79b0dca418dbb2d918aac6c90b3067fc9f03c73ceea26baa4fdee1c32974bb'}
   - {seq: 2, filename: KR3eh049_002-jc.yaml, hash: 'sha256:c2793504a82f9a57d63f661a0d4219cea156a866d24ecbb756b6578ea2cdc3c3'}
   - {seq: 3, filename: KR3eh049_003-jc.yaml, hash: 'sha256:133e2f9bb40c52e1cbe2a80cb5a39a42e46273479b7a149bddd74e6b1056f562'}
   - {seq: 4, filename: KR3eh049_004-jc.yaml, hash: 'sha256:1a5cebf763e45727accc07c495d81bd3fce6cef55f2a9848c61be515f0d50585'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh049_000-jc.markers.yaml, hash: 'sha256:b42e18c6036f3d540e21e58ede4c82e690e46a42e7bcfcd7bedc4b2d0d47811f'}
+  - {seq: 0, role: markers, filename: assets/KR3eh049_000-jc.markers.yaml, hash: 'sha256:26e2bff6e39667de7d9eb5620df243855ae099d5f4950a9c948a2ebc66c2b415'}
   - {seq: 1, role: markers, filename: assets/KR3eh049_001-jc.markers.yaml, hash: 'sha256:9d3c97010a350fd18320889a939df58f3b59857ec9ad9205267a930f707cba7e'}
   - {seq: 2, role: markers, filename: assets/KR3eh049_002-jc.markers.yaml, hash: 'sha256:a3fccb7fed62471bd3a14002c81f8f4301240cb7b38d6403cbd6b469a12712d6'}
   - {seq: 3, role: markers, filename: assets/KR3eh049_003-jc.markers.yaml, hash: 'sha256:cdfaacdd09ee8f034435c129b66cca037f144c3e2a0640710372557ced4ea7e5'}
@@ -32,7 +32,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh049_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 667
   label: 序
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh049_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 667
     - 1321
   label: 序
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh049_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1321
     - 1892
   label: 序
@@ -208,4 +208,4 @@ table_of_contents:
   label: 備選方
   type: section
   level: 2
-hash: sha256:f9ca29dd0f0cf6b2a0797e6b775d873ac74674d073cd4eea85c9a7ad8f04352e
+hash: sha256:1d90f482a29e5385e7312efcca35ededcf484f20f23684c63687d1e6fc63b7e5

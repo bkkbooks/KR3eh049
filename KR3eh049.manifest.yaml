@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh049_000.yaml, hash: 'sha256:28dc55d326c3e3ba52b4779929e273939f08c6d451f363eca7eda9b0efb09557'}
+  - {seq: 0, filename: KR3eh049_000.yaml, hash: 'sha256:c4d876f14abdd9f1472c7785148a90fc55d59003f0447bc2b54a411716dc9e6c'}
   - {seq: 1, filename: KR3eh049_001.yaml, hash: 'sha256:e0375b492caaf8223bd717e86fe3e6cbbf2c9533b1cf6fcdcce72557613e2820'}
   - {seq: 2, filename: KR3eh049_002.yaml, hash: 'sha256:77ceaa19bd3e89c4dfc11b5329f80d4465863a7f455eca0fd1a69aea5ad57f4c'}
   - {seq: 3, filename: KR3eh049_003.yaml, hash: 'sha256:133e2f9bb40c52e1cbe2a80cb5a39a42e46273479b7a149bddd74e6b1056f562'}
   - {seq: 4, filename: KR3eh049_004.yaml, hash: 'sha256:6d7cd3d317949e1105ae01bb8f19f2f9d70b9a1f41fd66a715708cacc11cdf56'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh049_000.markers.yaml, hash: 'sha256:c4c433db576b7f53805efe91a1923b5044cd6c9eb1695311ddaf1f194690b624'}
+  - {seq: 0, role: markers, filename: assets/KR3eh049_000.markers.yaml, hash: 'sha256:59b4df18f23021764dc052f6f06c90224b29aee73e48bc7c073206ff997a4693'}
   - {seq: 1, role: markers, filename: assets/KR3eh049_001.markers.yaml, hash: 'sha256:1d837fe5d958034dedebf4a96d1b881b76152f23f9e7675ee2d6fedb44c06d0b'}
   - {seq: 2, role: markers, filename: assets/KR3eh049_002.markers.yaml, hash: 'sha256:24e5bd510e175559b9ad74cefb343bf3847871779df488ce396e7672c3049c9f'}
   - {seq: 3, role: markers, filename: assets/KR3eh049_003.markers.yaml, hash: 'sha256:466a0c9654eef95e7a9c9c27191fe73cfbda26eaf6706d61ec4925b829f1b8ae'}
@@ -32,7 +32,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh049_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 667
   label: 序
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh049_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 667
     - 1321
   label: 序
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh049_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1321
     - 1892
   label: 序
@@ -208,7 +208,7 @@ table_of_contents:
   label: 備選方
   type: section
   level: 2
-hash: sha256:70e762da72f8d489c2fa9413d7dc323cc34fc26bf225f239eabf62173f7f59ef
+hash: sha256:5d6198b492def21f4a825266798805c1a9f5a808b3da0fc1780e33a300d716d7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
